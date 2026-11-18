@@ -58,5 +58,4 @@ See [`ARCHITECTURE.md`](ARCHITECTURE.md) for the full module breakdown and techn
 ## License
 
 Released under the [MIT License](LICENSE). Built and maintained by [JustJeffHQ](https://github.com/JustJeffHQ).
-# connection-health-monitor-
-Pre-flight Android attribution, DNS reachability, and device environment diagnostic blueprint.
+
